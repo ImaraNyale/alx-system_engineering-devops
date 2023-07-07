@@ -1,0 +1,2 @@
+shell permision scripts
+
